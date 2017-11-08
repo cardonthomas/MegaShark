@@ -41,7 +41,7 @@ class Movie
     public function setRD($releaseDate="")
     {
         $this->releaseDate = $releaseDate;
-    }
+    } 
     
     //------------------------
     function showMovie()
